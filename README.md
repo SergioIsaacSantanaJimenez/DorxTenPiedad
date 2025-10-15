@@ -1,7 +1,7 @@
 # PRACTICA_01
 
 ## Descripción
-Práctica de manejo de Git - Repositorios, ramas y resolución de conflictos.
+Práctica AVANZADA de manejo de Git - Repositorios, ramas y resolución de conflictos.
 
 ## Miembros del equipo
 - Sergio Isaac Santana Jiménez
